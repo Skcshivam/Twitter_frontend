@@ -1,5 +1,7 @@
-export const USER_API_END_POINT = "http://localhost:8080/api/v1/user";
-export const TWEET_API_END_POINT = "http://localhost:8080/api/v1/tweet";
+export const USER_API_END_POINT =
+  "https://twitter-backend-1-se35.onrender.com/user";
+export const TWEET_API_END_POINT =
+  "https://twitter-backend-1-se35.onrender.com/tweet";
 
 //this is not working
 // export const timeSince = (timestamp) => {
