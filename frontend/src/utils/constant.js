@@ -1,7 +1,7 @@
 export const USER_API_END_POINT =
-  "https://twitter-backend-1-se35.onrender.com/user";
+  "https://twitter-backend-1-se35.onrender.com/api/v1/user";
 export const TWEET_API_END_POINT =
-  "https://twitter-backend-1-se35.onrender.com/tweet";
+  "https://twitter-backend-1-se35.onrender.com/api/v1/tweet";
 
 //this is not working
 // export const timeSince = (timestamp) => {
